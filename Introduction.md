@@ -146,5 +146,5 @@ audio_element_deinit(element2);
 ## [Event interfaces/listeners](https://docs.espressif.com/projects/esp-adf/en/latest/api-reference/framework/audio_event_iface.html)
 This topic is yet to be documented.
 # Further reading
-[[Peripherals]]
-[[SD-card MP3 example]]
+[Peripherals](Peripherals.md)
+[SD-card MP3 example](SD-card%20MP3%20example.md)
