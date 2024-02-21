@@ -11,5 +11,6 @@ I'm willing to add collaborators to this project, so if you'd like to join, mess
 
 Get started by reading the [[Introduction]].
 # Further reading
+[Introduction](Introduction.md)
 [Peripherals](Peripherals.md)
 [SD-card MP3 example](SD-card%20MP3%20example.md)
