@@ -9,8 +9,9 @@ I expected that many students would have problems understanding ESP-ADF, given t
 
 I'm willing to add collaborators to this project, so if you'd like to join, message me!
 
-Get started by reading the [[Introduction]].
-# Further reading
+Get started by reading the [Introduction](Introduction.md).
+# Index
 [Introduction](Introduction.md)
 [Peripherals](Peripherals.md)
 [SD-card MP3 example](SD-card%20MP3%20example.md)
+[Internet connection over Wi-Fi](Internet%20connection%20over%20Wi-Fi.md)

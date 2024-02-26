@@ -150,3 +150,4 @@ This topic is yet to be documented.
 # Further reading
 [Peripherals](Peripherals.md)
 [SD-card MP3 example](SD-card%20MP3%20example.md)
+[Internet connection over Wi-Fi](Internet%20connection%20over%20Wi-Fi.md)
