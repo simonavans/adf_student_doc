@@ -2,6 +2,8 @@ Using ESP-ADF, developers can program all kinds of audio processing functionalit
 
 Some use cases could be streaming audio over various protocols, like HTTP, I<sup>2</sup>S (speaker output) and FatFs (SD card file system) to name a few, and playing audio (by connecting an external speaker). Besides input and output of audio, the developer can process ingoing audio in various ways before it becomes output. For example, audio may be resampled, equalized or converted to a different file format. ESP-ADF offers all of these options within just one framework.
 # Installation
+> Note: I highly recommend you install ESP-ADF with release version 4.4 of ESP-IDF. I have experienced a lot of issues with audio playback stuttering heavily on ESP-IDF version 5.1 paired with the latest version of ESP-ADF. Downgrading to ESP-IDF 4.4 resolved this problem. Installing the latest version of ESP-ADF is fine though.
+
 Before installing ESP-ADF, it is assumed that you have ESP-IDF and some IDE (VS Code, Espressif IDE) installed. There are setup guides available on BrightSpace. Assuming that you're using VS Code as your IDE, you can follow the installation guide below. Here's a link that takes you to the [guide on BrightSpace](https://brightspace.avans.nl/d2l/le/lessons/154524/topics/1225539). Below is a shortened version of that guide:
 1. Launch your terminal, then go to your `esp` folder  (usually in `C:\esp` or in `C:\Users\username\esp`) using the `cd` command;
 2. Run the following command:
