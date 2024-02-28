@@ -4,16 +4,7 @@ Some use cases could be streaming audio over various protocols, like HTTP, I<sup
 # Installation
 > Note: I highly recommend you install ESP-ADF with release version 4.4 of ESP-IDF. I have experienced a lot of issues with audio playback stuttering heavily on ESP-IDF version 5.1 paired with the latest version of ESP-ADF. Downgrading to ESP-IDF 4.4 resolved this problem. Installing the latest version of ESP-ADF is fine though.
 
-Before installing ESP-ADF, it is assumed that you have ESP-IDF and some IDE (VS Code, Espressif IDE) installed. There are setup guides available on BrightSpace. Assuming that you're using VS Code as your IDE, you can follow the installation guide below. Here's a link that takes you to the [guide on BrightSpace](https://brightspace.avans.nl/d2l/le/lessons/154524/topics/1225539). Below is a shortened version of that guide:
-1. Launch your terminal, then go to your `esp` folder  (usually in `C:\esp` or in `C:\Users\username\esp`) using the `cd` command;
-2. Run the following command:
-```
-git clone --recursive https://github.com/espressif/esp-adf.git
-```
-This will clone the master branch of the repo and will take some time.
-3. In VS Code, press `F1` or `Ctrl` + `Shift` + `p` and find the option `ESP-IDF: Install ESP-ADF`. Then select `Use existing repository`, then `GitHub`. Finally, navigate to the `esp-adf` folder in your `esp` directory.
-
-==If you run into any issues, it is recommended that you follow the linked guide above.==
+Before installing ESP-ADF, it is assumed that you have ESP-IDF and some IDE (VS Code, Espressif IDE) installed. There are setup guides available on BrightSpace. Assuming that you're using VS Code as your IDE, you can follow the installation guide below. Here's a link that takes you to the [guide on BrightSpace](https://brightspace.avans.nl/d2l/le/lessons/154524/topics/1225539). The guide our team used is described in [this guide](IDF%20ADF%20Installation.md).
 # Building blocks of ESP-ADF
 In basic terms, [ESP-ADF's documentation](https://docs.espressif.com/projects/esp-adf/en/latest/api-reference/index.html) describes the foundation of the framework. Though, it only documents the most general components and not much more besides function documentation. However, I still recommend checking it out as it can help you better understand the big picture.
 ## [Audio element](https://docs.espressif.com/projects/esp-adf/en/latest/api-reference/framework/audio_element.html)
