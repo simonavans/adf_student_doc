@@ -138,7 +138,3 @@ audio_element_deinit(element2);
 > Note: this is the order of functions in which an audio pipeline was deinitialized in one of the example projects. I do not know if this order of functions works in any case. When in doubt, check the official documentation.
 ## [Event interfaces/listeners](https://docs.espressif.com/projects/esp-adf/en/latest/api-reference/framework/audio_event_iface.html)
 This topic is yet to be documented.
-# Further reading
-[Peripherals](Peripherals.md)
-[SD-card MP3 example](SD-card%20MP3%20example.md)
-[Internet connection over Wi-Fi](Internet%20connection%20over%20Wi-Fi.md)

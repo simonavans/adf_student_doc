@@ -11,8 +11,10 @@ I'm willing to add collaborators to this project, so if you'd like to join, mess
 
 Get started by reading the [Introduction](Introduction.md).
 # Index
-[Introduction](Introduction.md)
-[IDF ADF Installation](IDF%20ADF%20Installation.md)
-[Peripherals](Peripherals.md)
-[SD-card MP3 example](SD-card%20MP3%20example.md)
-[Internet connection over Wi-Fi](Internet%20connection%20over%20Wi-Fi.md)
+1. [Introduction](Introduction.md)
+2. [IDF ADF Installation](IDF%20ADF%20Installation.md)
+3. [ESP component creation](ESP%20component%20creation.md)
+4. [Peripherals](Peripherals.md)
+5. [SD-card MP3 example](SD-card%20MP3%20example.md)
+6. [Internet connection over Wi-Fi](Internet%20connection%20over%20Wi-Fi.md)
+7. [LED strip example](LED%20strip%20example.md)
